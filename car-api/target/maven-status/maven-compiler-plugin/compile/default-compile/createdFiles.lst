@@ -1,0 +1,10 @@
+com\api\carapi\annotations\Entity.class
+com\api\carapi\annotations\ModelParam.class
+com\api\carapi\model\Car.class
+com\api\carapi\model\Orders.class
+com\api\carapi\annotations\Model.class
+com\api\carapi\service\CarService.class
+com\api\carapi\service\OrdersService.class
+com\api\carapi\service\UserService.class
+com\api\carapi\annotations\ResponseNature.class
+com\api\carapi\model\User.class
